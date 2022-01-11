@@ -1,0 +1,2 @@
+Git is a software to move the code from local to centralized repository
+
